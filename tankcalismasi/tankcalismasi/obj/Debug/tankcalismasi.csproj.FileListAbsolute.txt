@@ -1,0 +1,10 @@
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\bin\Debug\tankcalismasi.exe.config
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\bin\Debug\tankcalismasi.exe
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\bin\Debug\tankcalismasi.pdb
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.csprojAssemblyReference.cache
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.Properties.Resources.resources
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.csproj.GenerateResource.cache
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.exe
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.pdb
+C:\Users\Fatih Yılmaz\source\repos\tankcalismasi\tankcalismasi\obj\Debug\tankcalismasi.Form1.resources
